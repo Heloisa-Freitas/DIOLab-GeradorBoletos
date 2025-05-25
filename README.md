@@ -93,7 +93,7 @@ Este projeto demonstra a geração de códigos de barras, renderização da imag
   ![Service Bus](./screenshots/servicebus-explorer.png)
 
 - Queue:
-  ![Front-end](./screenshots/queues.png)
+  ![Front-end](./screenshots/queue.png)
 
 - Estrutura do projeto backend:
   ![Solution Backend](./screenshots/solution-structure.png)
